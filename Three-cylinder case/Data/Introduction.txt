@@ -1,0 +1,11 @@
+Description
+------
+"data-three.mat" is the dataset used in a three-cylinder case. It includes the selected velocity distribution from 85s to 90s in the rectangular area, along with the corresponding temporal and spatial coordinates.
+------
+"CFD.7z" contains the global velocity distribution from 85s to 95s. If you want to conduct tests on other selected areas, you can extract the data using the relevant code.
+ ------
+"all-u.mat" and "all-v.mat" in the file "Coefficient of determination" are used to calculate the coefficient of determination.
+ ------
+"u-rmse.mat" and "v-rmse.mat"  in the file "RMSE" are used to calculate the variation curve of Root Mean Square Error (RMSE) outside the dataset.
+ ------
+Due to the large size of the data, you need to generate the predicted data by using the relevant codes.
