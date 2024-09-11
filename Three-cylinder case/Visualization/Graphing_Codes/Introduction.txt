@@ -1,0 +1,11 @@
+Description
+------
+"picture.m" in the code is used to visualize the flow field and calculate the errors.
+------
+"data_generation" is designed to generate the dataset required for training neural networks. 
+------
+"rmse.m" is intended to calculate the variation curve of Root Mean Square Error (RMSE) outside the dataset. (u-rmse.mat, v-rmse.mat)
+------
+"interval_corr.m" aims to calculate the coefficient of determination. (all-u.mat, all-v.mat)
+
+ 
